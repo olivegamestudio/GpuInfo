@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/GpuInfo/GpuInfo.csproj" />
+  <Project Path="tests/GpuInfo.Tests/GpuInfo.Tests.csproj" Id="ffe057d8-1213-4924-b00d-e19c155b9c6f" />
+</Solution>
