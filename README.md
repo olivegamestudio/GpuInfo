@@ -32,7 +32,7 @@ if (Hardware.ContainsVendor("Intel"))
 
 ## Why?
 
-Some products need to detect the GPU vendor at runtime to apply driver-specific workarounds, toggle hardware acceleration, or log diagnostic information. Existing packages like `Hardware.Info` pull in everything — CPU, RAM, BIOS, monitors — and carry a known 21-second WMI initialisation delay.
+Some products need to detect the GPU vendor at runtime to apply driver-specific workarounds, toggle hardware acceleration, or log diagnostic information.
 
 GpuInfo does one thing: tells you what GPU is installed. Fast, minimal, no surprises.
 
