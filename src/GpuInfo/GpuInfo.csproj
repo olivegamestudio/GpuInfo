@@ -9,6 +9,7 @@
 		<PackageTags>gpu;graphics;hardware;wmi;nvidia;ati;amd;detection</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	</PropertyGroup>
 
 	<ItemGroup>
